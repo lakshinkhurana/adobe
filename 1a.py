@@ -186,5 +186,5 @@ def main():
         return
     process_all_pdfs(args.input, args.output, combined=args.combined, max_workers=args.workers, pretty=not args.compact, strict_bold=args.strict_bold)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
