@@ -105,8 +105,8 @@ Each JSON will contain:
 
 This project is developed as part of **Adobe India Hackathon 2025 - Round 1A**. Usage outside the scope of this event must be authorized by the authors.
 
-## 👤 Author
+## 👤 Authors
 
-**Lakshin Khurana**
+**Lakshin Khurana and Yashvardhan Nayal**
 
 Feel free to connect or reach out for discussions and collaboration opportunities!
