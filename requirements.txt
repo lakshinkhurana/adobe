@@ -1,0 +1,5 @@
+PyMuPDF==1.24.1
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.13.0
+tqdm==4.66.4
