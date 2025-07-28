@@ -1,0 +1,60 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "S.No",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Name",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Age",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Relationship",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Date",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "Application form for grant of LTC advance",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "PAY + SI + NPA",
+      "page": 1,
+      "confidence": 0.65,
+      "source": "analysis"
+    }
+  ],
+  "metadata": {
+    "total_headings": 7,
+    "avg_confidence": 0.7642857142857143,
+    "page_count": 1,
+    "extraction_method": "enhanced_analysis"
+  }
+}

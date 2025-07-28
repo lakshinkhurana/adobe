@@ -1,0 +1,263 @@
+{
+  "title": "Overview",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 1,
+      "confidence": 1.0,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "Foundation Level Extensions",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Revision History",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Remarks",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "18 JUNE 2013",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "23 JULY 2013",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "6 NOV 2013",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "11 DEC 2013",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "20 DEC 2013",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "31 MAY 2014",
+      "page": 3,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Amended Business Outcomes and Chapters matching",
+      "page": 3,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to the Foundation Level Extensions",
+      "page": 4,
+      "confidence": 0.9,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Foundation Level Agile Tester Extension",
+      "page": 4,
+      "confidence": 0.9,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 4,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Table of Contents",
+      "page": 4,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
+      "page": 6,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
+      "page": 7,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "2. Junior professional testers who are just starting in the testing profession, have received the",
+      "page": 7,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
+      "page": 7,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
+      "page": 7,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Syllabus",
+      "page": 8,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Days",
+      "page": 8,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 1: Agile Software Development",
+      "page": 10,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM1",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM2",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM3",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM4",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM5",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM6",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "AFM7",
+      "page": 10,
+      "confidence": 0.65,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Identifier",
+      "page": 12,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H3",
+      "text": "Reference",
+      "page": 12,
+      "confidence": 0.8,
+      "source": "analysis"
+    }
+  ],
+  "metadata": {
+    "total_headings": 36,
+    "avg_confidence": 0.7513888888888889,
+    "page_count": 12,
+    "extraction_method": "enhanced_analysis"
+  }
+}

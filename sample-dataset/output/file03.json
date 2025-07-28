@@ -1,0 +1,81 @@
+{
+  "title": "RFP: R",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1,
+      "confidence": 0.85,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Working Together",
+      "page": 1,
+      "confidence": 0.8,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Ontario’s Libraries",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "RFP: Request f",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "quest f",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "quest for Pr",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "r Pr",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "r Proposal",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H1",
+      "text": "oposal",
+      "page": 1,
+      "confidence": 0.7,
+      "source": "analysis"
+    },
+    {
+      "level": "H2",
+      "text": "Ontario’s Digital Library",
+      "page": 2,
+      "confidence": 0.7,
+      "source": "analysis"
+    }
+  ],
+  "metadata": {
+    "total_headings": 10,
+    "avg_confidence": 0.725,
+    "page_count": 14,
+    "extraction_method": "enhanced_analysis"
+  }
+}
