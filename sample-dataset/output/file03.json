@@ -1,0 +1,449 @@
+{
+  "title": "RFP: R",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Working Together",
+      "page": 1,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0,
+      "adjusted": true
+    },
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 32.0
+    },
+    {
+      "level": "H1",
+      "text": "Digital Library",
+      "page": 1,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Timeline:",
+      "page": 2,
+      "confidence": 0.8333333333333334,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Prosperity Strategy",
+      "page": 2,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "Summary",
+      "page": 2,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "A Critical Component for Implementing Ontario’s Road Map to",
+      "page": 2,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0
+    },
+    {
+      "level": "H3",
+      "text": "First, some background on the ODL. For the last two years the Ontario Library Association",
+      "page": 3,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "If you require further information or have any questions, please contact Michael Ridley by e-",
+      "page": 3,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Technological Support:",
+      "page": 5,
+      "confidence": 0.9,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Access:",
+      "page": 5,
+      "confidence": 0.8,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Guidance and Advice:",
+      "page": 5,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Training:",
+      "page": 5,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Provincial Purchasing & Licensing:",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering",
+      "page": 8,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 11.0
+    },
+    {
+      "level": "H3",
+      "text": "Phase I:  Business Planning",
+      "page": 9,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Appendix A:  ODL Envisioned Phases & Funding",
+      "page": 9,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "OVERVIEW OF ODL FUNDING MODEL",
+      "page": 10,
+      "confidence": 0.9,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "TOTAL ANNUAL",
+      "page": 10,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$35M (70%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$33.75M (45%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$10M (20%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$22.5M (30%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$4.5M (9%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$15M (20%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$0.5M (1%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "$3.75M (5%)",
+      "page": 10,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Funding Source",
+      "page": 10,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "Appendix B:",
+      "page": 11,
+      "confidence": 0.8,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "responsibilities include:",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "3.1 Schools:",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "3.2 Universities:",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "3.3 Colleges:",
+      "page": 11,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "ODL Steering Committee Terms of Reference",
+      "page": 11,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "development planning and commitment process will be overseen by a Steering Committee, who are",
+      "page": 11,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",
+      "page": 11,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "4. Appointment Criteria and Process",
+      "page": 12,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Able to devote time to Steering Committee business: approximately one day per month for",
+      "page": 12,
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",
+      "page": 12,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "representatives to the Steering Committee.",
+      "page": 12,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "is responsible for strong liaison with government particularly the Chief Information Officer",
+      "page": 13,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "9. Financial and Administrative Policies",
+      "page": 13,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "ongoing communications and consultation on issues and progress.  The Steering committee",
+      "page": 13,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
+      "page": 13,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Appendix C:",
+      "page": 14,
+      "confidence": 0.8,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    },
+    {
+      "level": "H3",
+      "text": "1. Reference Resources",
+      "page": 14,
+      "confidence": 0.8,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "2. Subject Guides",
+      "page": 14,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "ODL’s Envisioned Electronic Resources",
+      "page": 14,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 12.0
+    }
+  ],
+  "metadata": {
+    "total_headings": 48,
+    "avg_confidence": 0.6986111111111111,
+    "page_count": 14,
+    "extraction_method": "enhanced_analysis_v2",
+    "document_type": "structured",
+    "heading_levels": [
+      "H1",
+      "H3"
+    ]
+  }
+}
