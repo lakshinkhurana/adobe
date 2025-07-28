@@ -3,58 +3,67 @@
   "outline": [
     {
       "level": "H2",
-      "text": "S.No",
+      "text": "Date of entering the Central Government",
       "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H2",
-      "text": "Name",
-      "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H2",
-      "text": "Age",
-      "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H2",
-      "text": "Relationship",
-      "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H2",
-      "text": "Date",
-      "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H1",
-      "text": "Application form for grant of LTC advance",
-      "page": 1,
-      "confidence": 0.7,
-      "source": "analysis"
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
     },
     {
       "level": "H2",
       "text": "PAY + SI + NPA",
       "page": 1,
-      "confidence": 0.65,
-      "source": "analysis"
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
+    },
+    {
+      "level": "H2",
+      "text": "Name of the Government Servant",
+      "page": 1,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
+    },
+    {
+      "level": "H2",
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
+    },
+    {
+      "level": "H2",
+      "text": "Designation",
+      "page": 1,
+      "confidence": 0.5333333333333333,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
+    },
+    {
+      "level": "H2",
+      "text": "Signature of Government Servant.",
+      "page": 1,
+      "confidence": 0.4666666666666667,
+      "source": "analysis",
+      "document_type": "mixed",
+      "font_size": 9.7
     }
   ],
   "metadata": {
-    "total_headings": 7,
-    "avg_confidence": 0.7642857142857143,
+    "total_headings": 6,
+    "avg_confidence": 0.6166666666666666,
     "page_count": 1,
-    "extraction_method": "enhanced_analysis"
+    "extraction_method": "enhanced_analysis_v2",
+    "document_type": "mixed",
+    "heading_levels": [
+      "H2"
+    ]
   }
 }

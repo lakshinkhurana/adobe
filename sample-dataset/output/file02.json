@@ -3,261 +3,374 @@
   "outline": [
     {
       "level": "H1",
-      "text": "Overview",
+      "text": "Foundation Level Extensions",
       "page": 1,
-      "confidence": 1.0,
-      "source": "analysis"
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 24.0
+    },
+    {
+      "level": "H3",
+      "text": "Copyright Notice",
+      "page": 1,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Software Testing",
+      "page": 2,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 3,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extensions",
-      "page": 1,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H2",
       "text": "Revision History",
       "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Version",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Date",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Remarks",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "18 JUNE 2013",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "23 JULY 2013",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "6 NOV 2013",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "11 DEC 2013",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "20 DEC 2013",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "31 MAY 2014",
-      "page": 3,
-      "confidence": 0.8,
-      "source": "analysis"
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0
     },
     {
       "level": "H3",
       "text": "Amended Business Outcomes and Chapters matching",
       "page": 3,
-      "confidence": 0.7,
-      "source": "analysis"
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
-      "text": "Introduction to the Foundation Level Extensions",
-      "page": 4,
-      "confidence": 0.9,
-      "source": "analysis"
+      "text": "18 JUNE 2013",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
-      "text": "Introduction to Foundation Level Agile Tester Extension",
-      "page": 4,
-      "confidence": 0.9,
-      "source": "analysis"
+      "text": "23 JULY 2013",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
-      "text": "References",
-      "page": 4,
-      "confidence": 0.8,
-      "source": "analysis"
+      "text": "6 NOV 2013",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
-      "level": "H2",
-      "text": "Table of Contents",
+      "level": "H3",
+      "text": "11 DEC 2013",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "20 DEC 2013",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "31 MAY 2014",
+      "page": 3,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Learning Objectives",
       "page": 4,
-      "confidence": 0.7,
-      "source": "analysis"
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Keeping It Current",
+      "page": 4,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working",
+      "page": 5,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Working Group.",
+      "page": 5,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "The Agile Extension team thanks the review team and the National Boards for their suggestions and input.",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",
+      "page": 5,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
       "text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
       "page": 6,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "2.1 Intended Audience",
+      "page": 7,
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 14.0
+    },
+    {
+      "level": "H1",
+      "text": "2. Introduction to Foundation Level Agile Tester Extension",
+      "page": 7,
       "confidence": 0.7,
-      "source": "analysis"
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0
     },
     {
       "level": "H3",
-      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
+      "text": "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
       "page": 7,
-      "confidence": 0.65,
-      "source": "analysis"
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
-      "text": "2. Junior professional testers who are just starting in the testing profession, have received the",
-      "page": 7,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
-      "page": 7,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
-      "page": 7,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Syllabus",
+      "text": "2.4 Entry Requirements",
       "page": 8,
-      "confidence": 0.8,
-      "source": "analysis"
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 14.0
     },
     {
       "level": "H3",
-      "text": "Days",
+      "text": "Extension: Agile Tester",
       "page": 8,
-      "confidence": 0.8,
-      "source": "analysis"
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level.",
+      "page": 8,
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
+    },
+    {
+      "level": "H3",
+      "text": "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level",
+      "page": 10,
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
       "text": "Chapter 1: Agile Software Development",
       "page": 10,
-      "confidence": 0.8,
-      "source": "analysis"
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
-      "text": "AFM1",
+      "text": "3.1 Business Outcomes",
       "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
+      "confidence": 0.7333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 14.0
+    },
+    {
+      "level": "H1",
+      "text": "3. Overview of the Foundation Level Extension – Agile Tester",
+      "page": 10,
+      "confidence": 0.7,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 16.0
     },
     {
       "level": "H3",
-      "text": "AFM2",
+      "text": "An Agile Tester can…",
       "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "AFM3",
-      "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "AFM4",
-      "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "AFM5",
-      "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "AFM6",
-      "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "AFM7",
-      "page": 10,
-      "confidence": 0.65,
-      "source": "analysis"
+      "confidence": 0.6333333333333333,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
       "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
       "page": 11,
-      "confidence": 0.7,
-      "source": "analysis"
+      "confidence": 0.7666666666666667,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     },
     {
       "level": "H3",
       "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
       "page": 11,
-      "confidence": 0.7,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Identifier",
-      "page": 12,
-      "confidence": 0.8,
-      "source": "analysis"
-    },
-    {
-      "level": "H3",
-      "text": "Reference",
-      "page": 12,
-      "confidence": 0.8,
-      "source": "analysis"
+      "confidence": 0.6666666666666666,
+      "source": "analysis",
+      "document_type": "structured",
+      "font_size": 10.0
     }
   ],
   "metadata": {
-    "total_headings": 36,
-    "avg_confidence": 0.7513888888888889,
+    "total_headings": 40,
+    "avg_confidence": 0.6758333333333333,
     "page_count": 12,
-    "extraction_method": "enhanced_analysis"
+    "extraction_method": "enhanced_analysis_v2",
+    "document_type": "structured",
+    "heading_levels": [
+      "H1",
+      "H3"
+    ]
   }
 }

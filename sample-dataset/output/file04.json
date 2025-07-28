@@ -34,6 +34,11 @@
     "total_headings": 4,
     "avg_confidence": 1.0,
     "page_count": 1,
-    "extraction_method": "enhanced_analysis"
+    "extraction_method": "enhanced_analysis_v2",
+    "document_type": "unknown",
+    "heading_levels": [
+      "H1",
+      "H2"
+    ]
   }
 }
