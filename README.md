@@ -1,7 +1,3 @@
-Of course. Here is the content of the `README.md` file. You can copy and paste this text into a file on your local machine.
-
------
-
 # 🧠 PDF Outline Extractor (Adobe India Hackathon - Round 1A Submission)
 
 This project is a high-performance document parser built for the Adobe India Hackathon. It addresses the 'Connecting the Dots' challenge by transforming unstructured PDFs into clean, semantic outlines. The solution intelligently handles diverse document types—from academic papers to flyers—using a combination of machine learning and layout analysis to extract titles and hierarchical headings (H1, H2, H3).
